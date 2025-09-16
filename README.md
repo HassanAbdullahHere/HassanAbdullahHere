@@ -11,16 +11,13 @@
 
 <div align="left" style="max-width: 500px;">
   
-🔭 I’m currently working on **AI-Powered Solutions**  
-🌱 I’m currently learning **Architecture and System designs**  
-👯 I’m looking to collaborate on **practical Open-Source Projects**  
-🤝 I’m looking for help with **finding a Team, to do great things**
+🔭 I’m currently working on AI-Powered Solutions<br><br>🌱 I’m currently learning Architecture and System designs<br><br>👯 I’m looking to collaborate on practical Open-Source Projects<br><br>🤝 I’m looking for help with finding a Team, to do great things.
 
 </div>
 
 <br/>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWoxbDRjbnNlcnpobzVuODQydnhxdTBiMmw2cjhkaDNsdWk4Z3BpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="max-width:100%;"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWoxbDRjbnNlcnpobzVuODQydnhxdTBiMmw2cjhkaDNsdWk4Z3BpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" style="max-width:100%;"/>
 
 </div>
 
