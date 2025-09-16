@@ -1,5 +1,5 @@
 <h1 align="center">
- 🚀 Hi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3YxdWdkZ21wN3k1dzU3cWgxeHAzY3MzOHpwcW9wMXdlaTJidmlybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="60px" height="60px"/> , I'm <span style="color:#00BFFF;">Hassan Abdullah</span>
+ 🚀 Hi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3YxdWdkZ21wN3k1dzU3cWgxeHAzY3MzOHpwcW9wMXdlaTJidmlybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="50px"/> , I'm <span style="color:#00BFFF;">Hassan Abdullah</span>
 </h1>
 
 <h3 align="center">⚡ Full Stack AI Engineer | Architecting Intelligent Systems ⚡</h3>
@@ -7,21 +7,22 @@
 ---
 
 # 💫 About Me:
+<div align="center">
 
-<table align="center">
-<tr>
-<td width="60%">
+<div align="left" style="max-width: 500px;">
   
-🔭 I’m currently working on AI-Powered Solutions<br><br>🌱 I’m currently learning Architecture and System designs<br><br>👯 I’m looking to collaborate on practical Open-Source Projects<br><br>🤝 I’m looking for help with finding a Team, to do great things.
+🔭 I’m currently working on **AI-Powered Solutions**  
+🌱 I’m currently learning **Architecture and System designs**  
+👯 I’m looking to collaborate on **practical Open-Source Projects**  
+🤝 I’m looking for help with **finding a Team, to do great things**
 
-</td>
-<td width="40%" align="center">
+</div>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWoxbDRjbnNlcnpobzVuODQydnhxdTBiMmw2cjhkaDNsdWk4Z3BpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+<br/>
 
-</td>
-</tr>
-</table>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWoxbDRjbnNlcnpobzVuODQydnhxdTBiMmw2cjhkaDNsdWk4Z3BpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="max-width:100%;"/>
+
+</div>
 
 ---
 
