@@ -2,7 +2,7 @@
  🚀 Hi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3YxdWdkZ21wN3k1dzU3cWgxeHAzY3MzOHpwcW9wMXdlaTJidmlybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="50px"/> , I'm <span style="color:#00BFFF;">Hassan Abdullah</span>
 </h1>
 
-<h3 align="center">⚡ Full Stack AI Engineer | Architecting Intelligent Systems ⚡</h3>
+<h3 align="center">⚡ Full Stack AI Engineer ⚡</h3>
 
 ---
 
