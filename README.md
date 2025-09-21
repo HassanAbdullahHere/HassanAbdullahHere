@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassanabdullahhere&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=hassanabdullahhere&theme=noctis_minimus&hide_border=false" height="160px"/>
