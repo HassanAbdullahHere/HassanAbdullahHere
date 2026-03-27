@@ -37,12 +37,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanabdullahhere&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hassanabdullahhere&theme=noctis_minimus&hide_border=false" height="160px"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanabdullahhere&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
@@ -52,11 +46,6 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassanabdullahhere&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
 
 ---
 
