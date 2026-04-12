@@ -41,11 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanabdullahhere&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
----
+
 
 ---
 
