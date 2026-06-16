@@ -101,8 +101,3 @@ Documented hands-on AWS builds across IAM, VPC, Lambda, KMS, Secrets Manager, an
 </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanabdullahhere&theme=transparent&hide_border=true&layout=compact&langs_count=8"/>
-</p>
